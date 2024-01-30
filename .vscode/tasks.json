@@ -1,0 +1,16 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"type": "npm",
+			"script": "unit",
+			"problemMatcher": [],
+			"label": "npm: unit",
+			"detail": "mocha",
+			"group": {
+				"kind": "build",
+				"isDefault": true
+			}
+		}
+	]
+}
